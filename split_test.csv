@@ -1,0 +1,125 @@
+doid_id,drugbank_id,disease,drug,category
+DOID:635,DB00495,acquired immunodeficiency syndrome,Zidovudine,DM
+DOID:635,DB01004,acquired immunodeficiency syndrome,Ganciclovir,NOT
+DOID:0050741,DB00215,alcohol dependence,Citalopram,DM
+DOID:0050741,DB00475,alcohol dependence,Chlordiazepoxide,SYM
+DOID:2355,DB00949,anemia,Felbamate,NOT
+DOID:7147,DB00635,ankylosing spondylitis,Prednisone,DM
+DOID:7147,DB00924,ankylosing spondylitis,Cyclobenzaprine,NOT
+DOID:7147,DB00328,ankylosing spondylitis,Indomethacin,SYM
+DOID:2841,DB00332,asthma,Ipratropium bromide,DM
+DOID:2841,DB00440,asthma,Trimethoprim,NOT
+DOID:2841,DB01364,asthma,Ephedrine,SYM
+DOID:1936,DB00973,atherosclerosis,Ezetimibe,DM
+DOID:1936,DB00797,atherosclerosis,Tolazoline,NOT
+DOID:3310,DB00620,atopic dermatitis,Triamcinolone,DM
+DOID:3310,DB00410,atopic dermatitis,Mupirocin,NOT
+DOID:3310,DB00427,atopic dermatitis,Triprolidine,SYM
+DOID:363,DB00396,uterine cancer,Progesterone,DM
+DOID:363,DB00917,uterine cancer,Dinoprostone,NOT
+DOID:11054,DB00544,urinary bladder cancer,Fluorouracil,DM
+DOID:8577,DB00169,ulcerative colitis,Cholecalciferol,DM
+DOID:8577,DB00537,ulcerative colitis,Ciprofloxacin,NOT
+DOID:9352,DB00284,type 2 diabetes mellitus,Acarbose,DM
+DOID:9352,DB01076,type 2 diabetes mellitus,Atorvastatin,NOT
+DOID:9744,DB00104,type 1 diabetes mellitus,Octreotide,SYM
+DOID:1781,DB00445,thyroid cancer,Epirubicin,DM
+DOID:1781,DB00509,thyroid cancer,Dextrothyroxine,NOT
+DOID:2998,DB00958,testicular cancer,Carboplatin,DM
+DOID:418,DB00806,systemic scleroderma,Pentoxifylline,DM
+DOID:418,DB00924,systemic scleroderma,Cyclobenzaprine,NOT
+DOID:418,DB01240,systemic scleroderma,Epoprostenol,SYM
+DOID:10534,DB00305,stomach cancer,Mitomycin,DM
+DOID:4159,DB00853,skin cancer,Temozolomide,DM
+DOID:4159,DB01206,skin cancer,Lomustine,NOT
+DOID:5419,DB01198,schizophrenia,Zopiclone,SYM
+DOID:1115,DB01042,sarcoma,Melphalan,NOT
+DOID:1115,DB04572,sarcoma,Thiotepa,DM
+DOID:7148,DB00861,rheumatoid arthritis,Diflunisal,SYM
+DOID:7148,DB00425,rheumatoid arthritis,Zolpidem,NOT
+DOID:7148,DB00859,rheumatoid arthritis,Penicillamine,DM
+DOID:0050425,DB00190,restless legs syndrome,Carbidopa,SYM
+DOID:9008,DB00635,psoriatic arthritis,Prednisone,DM
+DOID:8893,DB01401,psoriasis,Trisalicylate-choline,SYM
+DOID:8893,DB00799,psoriasis,Tazarotene,DM
+DOID:10283,DB01234,prostate cancer,Dexamethasone,SYM
+DOID:10283,DB00665,prostate cancer,Nilutamide,DM
+DOID:10283,DB00399,prostate cancer,Zoledronate,NOT
+DOID:12236,DB06777,primary biliary cirrhosis,Chenodeoxycholic acid,DM
+DOID:11612,DB00717,polycystic ovary syndrome,Norethindrone,SYM
+DOID:1192,DB00445,peripheral nervous system neoplasm,Epirubicin,DM
+DOID:594,DB00285,panic disorder,Venlafaxine,SYM
+DOID:4989,DB00572,pancreatitis,Atropine,NOT
+DOID:4989,DB00782,pancreatitis,Propantheline,DM
+DOID:1793,DB00544,pancreatic cancer,Fluorouracil,DM
+DOID:2394,DB01005,ovarian cancer,Hydroxyurea,NOT
+DOID:2394,DB00958,ovarian cancer,Carboplatin,DM
+DOID:11476,DB00999,osteoporosis,Hydrochlorothiazide,NOT
+DOID:11476,DB00399,osteoporosis,Zoledronate,DM
+DOID:2174,DB00958,ocular cancer,Carboplatin,DM
+DOID:8398,DB00929,osteoarthritis,Misoprostol,NOT
+DOID:8398,DB00281,osteoarthritis,Lidocaine,SYM
+DOID:8986,DB00745,narcolepsy,Modafinil,SYM
+DOID:9970,DB00397,obesity,Phenylpropanolamine,DM
+DOID:4045,DB00541,muscle cancer,Vincristine,DM
+DOID:2377,DB01219,multiple sclerosis,Dantrolene,SYM
+DOID:2377,DB00635,multiple sclerosis,Prednisone,DM
+DOID:2377,DB00252,multiple sclerosis,Phenytoin,NOT
+DOID:6364,DB00945,migraine,Acetylsalicylic acid,SYM
+DOID:6364,DB00313,migraine,Valproic Acid,DM
+DOID:3565,DB00987,meningioma,Cytarabine,NOT
+DOID:1909,DB01206,melanoma,Lomustine,NOT
+DOID:1909,DB01248,melanoma,Docetaxel,DM
+DOID:3070,DB00853,malignant glioma,Temozolomide,DM
+DOID:0060073,DB00444,lymphatic system cancer,Teniposide,DM
+DOID:12365,DB01131,malaria,Proguanil,DM
+DOID:1024,DB01041,leprosy,Thalidomide,DM
+DOID:3571,DB00398,liver cancer,Sorafenib,DM
+DOID:1324,DB01005,lung cancer,Hydroxyurea,NOT
+DOID:1324,DB00642,lung cancer,Pemetrexed,DM
+DOID:1459,DB00451,hypothyroidism,Levothyroxine,DM
+DOID:263,DB00736,kidney cancer,Esomeprazole,SYM
+DOID:263,DB00331,kidney cancer,Metformin,NOT
+DOID:263,DB00530,kidney cancer,Erlotinib,DM
+DOID:2043,DB00718,hepatitis B,Adefovir Dipivoxil,DM
+DOID:10763,DB01085,hypertension,Pilocarpine,NOT
+DOID:10763,DB01275,hypertension,Hydralazine,DM
+DOID:10763,DB01119,hypertension,Diazoxide,SYM
+DOID:11934,DB00544,head and neck cancer,Fluorouracil,DM
+DOID:2531,DB00563,hematologic cancer,Methotrexate,DM
+DOID:2531,DB00428,hematologic cancer,Streptozocin,NOT
+DOID:2531,DB00959,hematologic cancer,Methylprednisolone,SYM
+DOID:13189,DB01032,gout,Probenecid,DM
+DOID:11119,DB00657,Gilles de la Tourette syndrome,Mecamylamine,SYM
+DOID:1686,DB00668,glaucoma,Epinephrine,SYM
+DOID:1686,DB00373,glaucoma,Timolol,DM
+DOID:1686,DB00388,glaucoma,Phenylephrine,NOT
+DOID:2994,DB00570,germ cell cancer,Vinblastine,DM
+DOID:5041,DB00338,esophageal cancer,Omeprazole,SYM
+DOID:5041,DB00958,esophageal cancer,Carboplatin,DM
+DOID:1826,DB01202,epilepsy syndrome,Levetiracetam,DM
+DOID:1826,DB00158,epilepsy syndrome,Folic Acid,NOT
+DOID:1595,DB00313,endogenous depression,Valproic Acid,SYM
+DOID:12930,DB00722,dilated cardiomyopathy,Lisinopril,DM
+DOID:12930,DB00390,dilated cardiomyopathy,Digoxin,SYM
+DOID:3393,DB00390,coronary artery disease,Digoxin,SYM
+DOID:3393,DB00641,coronary artery disease,Simvastatin,DM
+DOID:3393,DB01118,coronary artery disease,Amiodarone,NOT
+DOID:12995,DB00734,conduct disorder,Risperidone,SYM
+DOID:219,DB00673,colon cancer,Aprepitant,SYM
+DOID:219,DB00541,colon cancer,Vincristine,DM
+DOID:219,DB00996,colon cancer,Gabapentin,NOT
+DOID:3083,DB00218,chronic obstructive pulmonary disease,Moxifloxacin,SYM
+DOID:3083,DB01409,chronic obstructive pulmonary disease,Tiotropium,DM
+DOID:3083,DB00425,chronic obstructive pulmonary disease,Zolpidem,NOT
+DOID:784,DB00887,chronic kidney failure,Bumetanide,SYM
+DOID:1612,DB01234,breast cancer,Dexamethasone,SYM
+DOID:1612,DB00481,breast cancer,Raloxifene,DM
+DOID:1612,DB00399,breast cancer,Zoledronate,NOT
+DOID:1319,DB01168,brain cancer,Procarbazine,DM
+DOID:1319,DB00959,brain cancer,Methylprednisolone,SYM
+DOID:184,DB00399,bone cancer,Zoledronate,NOT
+DOID:184,DB00997,bone cancer,Doxorubicin,DM
+DOID:12849,DB00575,autistic disorder,Clonidine,SYM
+DOID:3312,DB01175,bipolar disorder,Escitalopram,SYM
+DOID:1094,DB00285,attention deficit hyperactivity disorder,Venlafaxine,SYM
